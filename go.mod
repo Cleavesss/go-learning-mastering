@@ -1,4 +1,4 @@
-module main
+module post05
 
 go 1.23.0
 
